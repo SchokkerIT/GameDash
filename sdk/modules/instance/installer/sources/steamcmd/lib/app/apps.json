@@ -1,0 +1,21 @@
+[
+    
+    {
+        
+        "id": 740,
+        "title": "Counter-Strike: Global Offensive",
+        "publicId": 730,
+        "args": ["+login anonymous"]
+        
+    },
+    
+    {
+        
+        "id": 4020,
+        "title": "Garry's Mod",
+        "publicId": 4000,
+        "args": ["+login anonymous"]
+        
+    }
+    
+]

@@ -1,0 +1,12 @@
+{
+    
+    "title": "Instance settings directory contents",
+    "description": "Populate settings with contents from directory",
+    "author": "Schokker IT B.V.",
+    "resources": [
+        
+        "directorycontents"
+    
+    ]
+    
+}
