@@ -44,7 +44,4 @@ Any one can modify an existing module or create an entirely new one. The officia
 
 ## Help
 
-If at any point your stuck or just have a question, feel free to join our [community Discord server](https://gamedash.io/discord). Both the staff and community is more than willing to help out. If you are a customer and are still unable to resolve your issue, feel free to contact us via the GameDash licensing portal.
-
-If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle
-nudge in the right direction, please don't hesitate to join our official [Discord.js Server](https://discord.gg/bRCvFy9).
+If at any point your stuck or just have a question, feel free to join our [community Discord server](https://gamedash.io/discord). Both the staff and community is more than willing to help out. If you are a customer and are still unable to resolve your issue, feel free to contact us via the GameDash licensing portal
