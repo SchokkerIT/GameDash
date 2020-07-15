@@ -38,6 +38,10 @@ TBA
 Before creating an issue, please ensure that it hasn't already been reported/suggested, and double-check the
 [documentation](https://gamedash.io/documentation).
 
+### Contibuting to SDK modules
+
+Any one can modify an existing module or create an entirely new one. The official module repository can be found [here](https://github.com/SchokkerIT/GameDash-Sdk-Modules). Please submit issues and pull requests related to official modules there.
+
 ## Help
 
 If at any point your stuck or just have a question, feel free to join our [community Discord server](https://gamedash.io/discord). Both the staff and community is more than willing to help out. If you are a customer and are still unable to resolve your issue, feel free to contact us via the GameDash licensing portal.
